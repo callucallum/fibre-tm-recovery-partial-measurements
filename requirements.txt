@@ -1,0 +1,11 @@
+tensorflow
+scikeras
+bayesian-optimization
+scikit-learn
+scipy
+numpy
+pandas
+h5py
+matplotlib
+seaborn
+jupyter
