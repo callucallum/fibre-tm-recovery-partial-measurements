@@ -1,0 +1,7 @@
+# Ignore all simulation scripts (not released)
+simulations/
+simulation/
+
+# Ignore others
+.DS_Store
+.ipynb_checkpoints/
