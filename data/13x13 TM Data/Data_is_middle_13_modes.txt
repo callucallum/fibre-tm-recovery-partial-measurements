@@ -1,0 +1,1 @@
+The data in this directory is when measuring the middle 13 modes out of the 78 modes available in the simulation. Using every 6th mode didn’t hold enough information for the model to work well.
