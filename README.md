@@ -1,5 +1,7 @@
 # fibre-tm-recovery-partial-measurements
 
+[![Paper DOI](https://img.shields.io/badge/DOI-10.1117%2F12.3077568-blue)](https://doi.org/10.1117/12.3077568)
+
 Code and trained model weights for
 
 > C. J. Wilson, Y. Zheng, D. B. Phillips and G. S. D. Gordon, **Using physics-informed AI to enable fibre TM recovery from minimal partial measurements enabling ultra-thin endoscopes**, *Proc. SPIE* 13865 (*Computational Optical Imaging and Artificial Intelligence in Biomedical Sciences III*), 138650A (2026). [doi:10.1117/12.3077568](https://doi.org/10.1117/12.3077568)
