@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+type: software
+title: "fibre-tm-recovery-partial-measurements: code for physics-informed AI fibre TM recovery from minimal partial measurements"
+authors:
+  - family-names: Wilson
+    given-names: Callum J.
+    orcid: "https://orcid.org/0009-0003-4651-8294"
+    affiliation: "University of Cambridge"
+license: MIT
+repository-code: "https://github.com/callucallum/fibre-tm-recovery-partial-measurements"
+preferred-citation:
+  type: conference-paper
+  title: "Using physics-informed AI to enable fibre TM recovery from minimal partial measurements enabling ultra-thin endoscopes"
+  authors:
+    - family-names: Wilson
+      given-names: Callum J.
+    - family-names: Zheng
+      given-names: Yijie
+    - family-names: Phillips
+      given-names: David B.
+    - family-names: Gordon
+      given-names: George S. D.
+  collection-title: "Computational Optical Imaging and Artificial Intelligence in Biomedical Sciences III, Proc. SPIE 13865"
+  year: 2026
+  doi: 10.1117/12.3077568
